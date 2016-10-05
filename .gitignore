@@ -3,3 +3,5 @@ bin/
 .idea
 .project
 atlassian-ide-plugin.xml
+JDBCSample.iml
+
